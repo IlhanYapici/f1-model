@@ -1,0 +1,19 @@
+name: f1-model
+dependencies:
+  - jupyter
+  - jupyter-lsp
+  - jupyter_client
+  - jupyter_core
+  - jupyter_server
+  - jupyter_server_terminals
+  - jupyterlab
+  - jupyterlab_pygments
+  - jupyterlab_server
+  - jupyterlab_widgets
+  - matplotlib
+  - matplotlib-inline
+  - notebook
+  - numpy
+  - pandas
+  - pillow
+  - seaborn
